@@ -3,7 +3,7 @@
 My name is Nebez Kassem and I am a frontend developer with many years of experience in UX and UI design, Linux administration, and illustration.
 MY university studies were in 3D graphics and video games, so I've also done things like video editing and post production.
 
-_If it can be done on a computer, I've probably dabbled with it!_
+**If it can be done on a computer, I've probably dabbled with it!**
 
 <!--
 **nabaxo/nabaxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
