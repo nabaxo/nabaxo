@@ -1,6 +1,6 @@
 ### Hi there!
 
-My name is Nebez Kassem and I am a frontend developer with many years of experience in UX and UI design, Linux administration, and illustration.
+My name is Nebez Kassem (he/him) and I am a frontend developer with many years of experience in UX and UI design, Linux administration, and illustration.
 My university studies were in 3D graphics and video games, so I've also done things like video editing and post production.
 
 **If it can be done on a computer, I've probably dabbled with it!**
