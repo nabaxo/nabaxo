@@ -7,6 +7,8 @@ My university studies were in 3D graphics and video games, so I've also done thi
 
 Here's my website for more about me and other stuff I've made: https://nabaxo.io
 
+(he/him)
+
 <!--
 **nabaxo/nabaxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
