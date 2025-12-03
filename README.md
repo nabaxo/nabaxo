@@ -1,4 +1,4 @@
-### Hi there!
+### Fuck AI! Migrating over to Codeberg! Bye!
 
 My name is Nebez Kassem (he/him) and I am a frontend developer with many years of experience in UX and UI design, Linux administration, and illustration.
 My university studies were in 3D graphics and video games, so aside from 3D, I've also done things like video editing and post production.
